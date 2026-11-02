@@ -38,7 +38,7 @@ Features, implementation details, and user interfaces may change.
 
 To establish communication between the Android application and the EBS260 printer, ensure the following requirements are met:
 
-1. **Network connection:** The Android device and the EBS260 printer and the Android mobile device must be connected to the same Wi-Fi network.
+1. **Network connection:** The Android device and the EBS260 printer must be connected to the same Wi-Fi network.
 2. **Print layout:** The print layout configured on the printer must include a communication field (COMM).
 3. **Socket configuration:** Configure the COMM field to use `Socket 1` with port `5001`.
 4. **Printer IP address:** Obtain the printer's IP address from its Wi-Fi manager or the router's administration interface.
