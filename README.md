@@ -43,7 +43,7 @@ To establish communication between the Android application and the EBS260 printe
 3. **Socket configuration:** Configure the COMM field to use `Socket 1` with port `5001`.
 4. **Printer IP address:** Obtain the printer's IP address from its Wi-Fi manager or the router's administration interface.
 5. **Connectivity:** Ensure that TCP communication on port `5001` is permitted by the network configuration.
-6. 
+
 ## Disclaimer
 
 This project is provided for experimental and educational purposes.
